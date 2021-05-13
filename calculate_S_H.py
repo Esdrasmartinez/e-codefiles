@@ -27,8 +27,13 @@ class Calculate_speed_at_specific_hight:
     
   
 h_S = int(input("""
-     Que deseas calcular...
-   1-. Altura / distancia (m)
+NOTA: ESTA FUNCION ESTA EN FASE BETA SOLO HA SIDO TESTEADA 2 VECES 
+            Si te piden calcular
+    "la altura a una velocidad especifica" 
+                 ó 
+    la velocidad a una altura especifica
+
+    1-. Altura / distancia (m)
    2-. Velocidad (m/s)
    
 
